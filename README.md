@@ -128,12 +128,3 @@ To try to spend less fees, you can try to decrease the amount of fees in the con
 
 If you have any question/problem, you can contact me on telegram : https://t.me/LogicPush
 
-## Tips
-
-To buy me a coffee, here are my addresses:
-
-- Solana : 2zzTcxBkbFSseYzDrutrxSdeWaij3Un9oBtWjHF7v1bN
-
-- BSC / ETH : 0xB041Dc915254D3E4F56487017076DCeDb61A81E3
-
-Happy bumping!
